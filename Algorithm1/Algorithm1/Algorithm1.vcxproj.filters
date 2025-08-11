@@ -39,5 +39,14 @@
     <ClCompile Include="findMaxRand.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="sosEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="factorial.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fibonacci.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
