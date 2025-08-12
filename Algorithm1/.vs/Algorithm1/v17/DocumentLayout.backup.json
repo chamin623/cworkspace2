@@ -3,48 +3,16 @@
   "WorkspaceRootPath": "C:\\cworkspace2\\Algorithm1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\fibonacci.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\fibonacci.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\gcd2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\gcd2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMax.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\findMax.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\gcd1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\gcd1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMaxArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\findMaxArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\arrayCalc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\arrayCalc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\factorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\factorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\sosEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\sosEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMaxRand.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\findMaxRand.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMaxArrray2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\findMaxArrray2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\sumN.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\sumN.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\makeBar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\makeBar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\makeBar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\makeBar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|C:\\cworkspace2\\Algorithm1\\Algorithm1\\printBinary.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{31F11DE8-9C77-4E26-BBE0-24A0CD1CD05E}|Algorithm1\\Algorithm1.vcxproj|solutionrelative:Algorithm1\\printBinary.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,140 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "fibonacci.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\fibonacci.c",
-              "RelativeDocumentMoniker": "Algorithm1\\fibonacci.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\fibonacci.c*",
-              "RelativeToolTip": "Algorithm1\\fibonacci.c*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Title": "gcd2.c",
+              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\gcd2.c",
+              "RelativeDocumentMoniker": "Algorithm1\\gcd2.c",
+              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\gcd2.c*",
+              "RelativeToolTip": "Algorithm1\\gcd2.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T08:35:28.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "factorial.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\factorial.c",
-              "RelativeDocumentMoniker": "Algorithm1\\factorial.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\factorial.c",
-              "RelativeToolTip": "Algorithm1\\factorial.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T08:12:12.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "sosEx.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\sosEx.c",
-              "RelativeDocumentMoniker": "Algorithm1\\sosEx.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\sosEx.c",
-              "RelativeToolTip": "Algorithm1\\sosEx.c",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T08:01:03.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "findMaxRand.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMaxRand.c",
-              "RelativeDocumentMoniker": "Algorithm1\\findMaxRand.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMaxRand.c",
-              "RelativeToolTip": "Algorithm1\\findMaxRand.c",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T07:28:04.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "findMaxArrray2.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMaxArrray2.c",
-              "RelativeDocumentMoniker": "Algorithm1\\findMaxArrray2.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMaxArrray2.c",
-              "RelativeToolTip": "Algorithm1\\findMaxArrray2.c",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAowDEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T07:06:13.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "sumN.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\sumN.c",
-              "RelativeDocumentMoniker": "Algorithm1\\sumN.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\sumN.c",
-              "RelativeToolTip": "Algorithm1\\sumN.c",
-              "ViewState": "AgIAACAAAAAAAAAAAAAqwDUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T06:54:58.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "makeBar2.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\makeBar2.c",
-              "RelativeDocumentMoniker": "Algorithm1\\makeBar2.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\makeBar2.c",
-              "RelativeToolTip": "Algorithm1\\makeBar2.c",
-              "ViewState": "AgIAACMAAAAAAAAAAAAqwEEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T06:54:45.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "makeBar.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\makeBar.c",
-              "RelativeDocumentMoniker": "Algorithm1\\makeBar.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\makeBar.c",
-              "RelativeToolTip": "Algorithm1\\makeBar.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T06:54:26.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "findMaxArray.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMaxArray.c",
-              "RelativeDocumentMoniker": "Algorithm1\\findMaxArray.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMaxArray.c",
-              "RelativeToolTip": "Algorithm1\\findMaxArray.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T06:54:10.311Z",
+              "WhenOpened": "2025-08-12T08:24:28.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "findMax.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMax.c",
-              "RelativeDocumentMoniker": "Algorithm1\\findMax.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\findMax.c",
-              "RelativeToolTip": "Algorithm1\\findMax.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Title": "gcd1.c",
+              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\gcd1.c",
+              "RelativeDocumentMoniker": "Algorithm1\\gcd1.c",
+              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\gcd1.c",
+              "RelativeToolTip": "Algorithm1\\gcd1.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T06:53:53.9Z",
+              "WhenOpened": "2025-08-12T08:04:08.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "arrayCalc.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\arrayCalc.c",
-              "RelativeDocumentMoniker": "Algorithm1\\arrayCalc.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\arrayCalc.c",
-              "RelativeToolTip": "Algorithm1\\arrayCalc.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "printBinary.c",
+              "DocumentMoniker": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\printBinary.c",
+              "RelativeDocumentMoniker": "Algorithm1\\printBinary.c",
+              "ToolTip": "C:\\cworkspace2\\Algorithm1\\Algorithm1\\printBinary.c",
+              "RelativeToolTip": "Algorithm1\\printBinary.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T06:53:32.301Z",
+              "WhenOpened": "2025-08-12T07:35:48.859Z",
               "EditorCaption": ""
             }
           ]

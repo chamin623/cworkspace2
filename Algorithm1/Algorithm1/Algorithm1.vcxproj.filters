@@ -48,5 +48,17 @@
     <ClCompile Include="fibonacci.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="fibonacci2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="printBinary.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gcd1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gcd2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

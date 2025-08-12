@@ -22,10 +22,12 @@ int fibo(int n) {
 
 int main()
 {
+	/*
 	printf("%d\n", fibo(4)); //3
 	printf("%d\n", fibo(3)); //2
 	printf("%d\n", fibo(2)); //1
 	printf("%d\n", fibo(1)); //1
+	*/
 
 	puts("** 1년동안의 토끼의 개체수 출력 **");
 	for (int i = 1;i <= 12;i++) {
