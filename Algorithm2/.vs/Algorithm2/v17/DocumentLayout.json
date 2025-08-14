@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\cworkspace2\\Algorithm2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BDEB23C-04F0-4EB3-9211-AB090FAA4B62}|Algorithm2\\Algorithm2.vcxproj|C:\\cworkspace2\\Algorithm2\\Algorithm2\\bubbleSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1BDEB23C-04F0-4EB3-9211-AB090FAA4B62}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\bubbleSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1BDEB23C-04F0-4EB3-9211-AB090FAA4B62}|Algorithm2\\Algorithm2.vcxproj|C:\\cworkspace2\\Algorithm2\\Algorithm2\\binarySearch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BDEB23C-04F0-4EB3-9211-AB090FAA4B62}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\binarySearch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "bubbleSort.c",
-              "DocumentMoniker": "C:\\cworkspace2\\Algorithm2\\Algorithm2\\bubbleSort.c",
-              "RelativeDocumentMoniker": "Algorithm2\\bubbleSort.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm2\\Algorithm2\\bubbleSort.c",
-              "RelativeToolTip": "Algorithm2\\bubbleSort.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Title": "binarySearch.c",
+              "DocumentMoniker": "C:\\cworkspace2\\Algorithm2\\Algorithm2\\binarySearch.c",
+              "RelativeDocumentMoniker": "Algorithm2\\binarySearch.c",
+              "ToolTip": "C:\\cworkspace2\\Algorithm2\\Algorithm2\\binarySearch.c",
+              "RelativeToolTip": "Algorithm2\\binarySearch.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-12T08:43:20.283Z",
+              "WhenOpened": "2025-08-14T08:38:48.648Z",
               "EditorCaption": ""
             }
           ]
