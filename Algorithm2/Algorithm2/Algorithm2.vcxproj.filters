@@ -60,5 +60,20 @@
     <ClCompile Include="binarySearch.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="binarySearch2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="quickSort1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="quickSort2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stringReverse.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stringLength.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\cworkspace2\\Algorithm2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1BDEB23C-04F0-4EB3-9211-AB090FAA4B62}|Algorithm2\\Algorithm2.vcxproj|C:\\cworkspace2\\Algorithm2\\Algorithm2\\stringLength.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BDEB23C-04F0-4EB3-9211-AB090FAA4B62}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\stringLength.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDEB23C-04F0-4EB3-9211-AB090FAA4B62}|Algorithm2\\Algorithm2.vcxproj|C:\\cworkspace2\\Algorithm2\\Algorithm2\\quickSort2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BDEB23C-04F0-4EB3-9211-AB090FAA4B62}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\quickSort2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDEB23C-04F0-4EB3-9211-AB090FAA4B62}|Algorithm2\\Algorithm2.vcxproj|C:\\cworkspace2\\Algorithm2\\Algorithm2\\stringReverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BDEB23C-04F0-4EB3-9211-AB090FAA4B62}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\stringReverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDEB23C-04F0-4EB3-9211-AB090FAA4B62}|Algorithm2\\Algorithm2.vcxproj|C:\\cworkspace2\\Algorithm2\\Algorithm2\\quickSort1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BDEB23C-04F0-4EB3-9211-AB090FAA4B62}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\quickSort1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDEB23C-04F0-4EB3-9211-AB090FAA4B62}|Algorithm2\\Algorithm2.vcxproj|C:\\cworkspace2\\Algorithm2\\Algorithm2\\binarySearch2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BDEB23C-04F0-4EB3-9211-AB090FAA4B62}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\binarySearch2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1BDEB23C-04F0-4EB3-9211-AB090FAA4B62}|Algorithm2\\Algorithm2.vcxproj|C:\\cworkspace2\\Algorithm2\\Algorithm2\\binarySearch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1BDEB23C-04F0-4EB3-9211-AB090FAA4B62}|Algorithm2\\Algorithm2.vcxproj|solutionrelative:Algorithm2\\binarySearch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -27,12 +47,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "stringLength.c",
+              "DocumentMoniker": "C:\\cworkspace2\\Algorithm2\\Algorithm2\\stringLength.c",
+              "RelativeDocumentMoniker": "Algorithm2\\stringLength.c",
+              "ToolTip": "C:\\cworkspace2\\Algorithm2\\Algorithm2\\stringLength.c*",
+              "RelativeToolTip": "Algorithm2\\stringLength.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-18T08:37:12.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stringReverse.c",
+              "DocumentMoniker": "C:\\cworkspace2\\Algorithm2\\Algorithm2\\stringReverse.c",
+              "RelativeDocumentMoniker": "Algorithm2\\stringReverse.c",
+              "ToolTip": "C:\\cworkspace2\\Algorithm2\\Algorithm2\\stringReverse.c",
+              "RelativeToolTip": "Algorithm2\\stringReverse.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-18T08:20:25.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quickSort2.c",
+              "DocumentMoniker": "C:\\cworkspace2\\Algorithm2\\Algorithm2\\quickSort2.c",
+              "RelativeDocumentMoniker": "Algorithm2\\quickSort2.c",
+              "ToolTip": "C:\\cworkspace2\\Algorithm2\\Algorithm2\\quickSort2.c",
+              "RelativeToolTip": "Algorithm2\\quickSort2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-18T07:49:53.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "quickSort1.c",
+              "DocumentMoniker": "C:\\cworkspace2\\Algorithm2\\Algorithm2\\quickSort1.c",
+              "RelativeDocumentMoniker": "Algorithm2\\quickSort1.c",
+              "ToolTip": "C:\\cworkspace2\\Algorithm2\\Algorithm2\\quickSort1.c",
+              "RelativeToolTip": "Algorithm2\\quickSort1.c",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-18T07:29:13.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "binarySearch2.c",
+              "DocumentMoniker": "C:\\cworkspace2\\Algorithm2\\Algorithm2\\binarySearch2.c",
+              "RelativeDocumentMoniker": "Algorithm2\\binarySearch2.c",
+              "ToolTip": "C:\\cworkspace2\\Algorithm2\\Algorithm2\\binarySearch2.c",
+              "RelativeToolTip": "Algorithm2\\binarySearch2.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-18T07:04:42.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "binarySearch.c",
               "DocumentMoniker": "C:\\cworkspace2\\Algorithm2\\Algorithm2\\binarySearch.c",
               "RelativeDocumentMoniker": "Algorithm2\\binarySearch.c",
-              "ToolTip": "C:\\cworkspace2\\Algorithm2\\Algorithm2\\binarySearch.c*",
-              "RelativeToolTip": "Algorithm2\\binarySearch.c*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\cworkspace2\\Algorithm2\\Algorithm2\\binarySearch.c",
+              "RelativeToolTip": "Algorithm2\\binarySearch.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowCwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-14T08:38:48.648Z",
               "EditorCaption": ""

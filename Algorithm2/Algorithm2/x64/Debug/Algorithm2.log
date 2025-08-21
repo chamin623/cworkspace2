@@ -1,2 +1,10 @@
-﻿  binarySearch.c
+﻿  stringLength.c
+C:\cworkspace2\Algorithm2\Algorithm2\stringLength.c(20,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+      C:\cworkspace2\Algorithm2\Algorithm2\stringLength.c(20,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\cworkspace2\Algorithm2\Algorithm2\stringLength.c(21,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+      C:\cworkspace2\Algorithm2\Algorithm2\stringLength.c(21,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
   Algorithm2.vcxproj -> C:\cworkspace2\Algorithm2\x64\Debug\Algorithm2.exe
