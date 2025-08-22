@@ -39,5 +39,14 @@ int main()
 	}
 	puts("NULL\n");
 
+	puts("*** 노드 y 삭제 ***");
+	x.next = y.next; //x -> z
+	y.next = NULL;
+
+	for (p = &x;p != NULL;p = p->next) {
+		printf("%d -> ", p->data);
+	}
+	puts("NULL\n");
+
 	return 0;
 }

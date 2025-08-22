@@ -1,4 +1,3 @@
-﻿  연결리스트_사용자입력.c
-C:\cworkspace2\DataStructure2\DataStructure2\연결리스트_사용자입력.c(35,17): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
-C:\cworkspace2\DataStructure2\DataStructure2\연결리스트_사용자입력.c(43,11): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+﻿  고객대기열_큐.c
+C:\cworkspace2\DataStructure2\DataStructure2\고객대기열_큐.c(26,7): warning C4101: 'name' :참조되지 않은 지역 변수입니다.
   DataStructure2.vcxproj -> C:\cworkspace2\DataStructure2\x64\Debug\DataStructure2.exe

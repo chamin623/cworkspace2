@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\cworkspace2\\DataStructure2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5463A70-D082-4A2B-BC93-9E3AE26DB588}|DataStructure2\\DataStructure2.vcxproj|C:\\cworkspace2\\DataStructure2\\DataStructure2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uC0AC\uC6A9\uC790\uC785\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D5463A70-D082-4A2B-BC93-9E3AE26DB588}|DataStructure2\\DataStructure2.vcxproj|solutionrelative:DataStructure2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uC0AC\uC6A9\uC790\uC785\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D5463A70-D082-4A2B-BC93-9E3AE26DB588}|DataStructure2\\DataStructure2.vcxproj|C:\\cworkspace2\\DataStructure2\\DataStructure2\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uD050.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5463A70-D082-4A2B-BC93-9E3AE26DB588}|DataStructure2\\DataStructure2.vcxproj|solutionrelative:DataStructure2\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uD050.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5463A70-D082-4A2B-BC93-9E3AE26DB588}|DataStructure2\\DataStructure2.vcxproj|C:\\cworkspace2\\DataStructure2\\DataStructure2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uD568\uC218.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D5463A70-D082-4A2B-BC93-9E3AE26DB588}|DataStructure2\\DataStructure2.vcxproj|solutionrelative:DataStructure2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uD568\uC218.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5463A70-D082-4A2B-BC93-9E3AE26DB588}|DataStructure2\\DataStructure2.vcxproj|C:\\cworkspace2\\DataStructure2\\DataStructure2\\linkedList2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D5463A70-D082-4A2B-BC93-9E3AE26DB588}|DataStructure2\\DataStructure2.vcxproj|solutionrelative:DataStructure2\\linkedList2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5463A70-D082-4A2B-BC93-9E3AE26DB588}|DataStructure2\\DataStructure2.vcxproj|C:\\cworkspace2\\DataStructure2\\DataStructure2\\linkedList1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D5463A70-D082-4A2B-BC93-9E3AE26DB588}|DataStructure2\\DataStructure2.vcxproj|solutionrelative:DataStructure2\\linkedList1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5463A70-D082-4A2B-BC93-9E3AE26DB588}|DataStructure2\\DataStructure2.vcxproj|C:\\cworkspace2\\DataStructure2\\DataStructure2\\arrayStruct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D5463A70-D082-4A2B-BC93-9E3AE26DB588}|DataStructure2\\DataStructure2.vcxproj|solutionrelative:DataStructure2\\arrayStruct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D5463A70-D082-4A2B-BC93-9E3AE26DB588}|DataStructure2\\DataStructure2.vcxproj|C:\\cworkspace2\\DataStructure2\\DataStructure2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uC0BD\uC785_\uC0AD\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5463A70-D082-4A2B-BC93-9E3AE26DB588}|DataStructure2\\DataStructure2.vcxproj|solutionrelative:DataStructure2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uC0BD\uC785_\uC0AD\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,66 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uC0AC\uC6A9\uC790\uC785\uB825.c",
-              "DocumentMoniker": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uC0AC\uC6A9\uC790\uC785\uB825.c",
-              "RelativeDocumentMoniker": "DataStructure2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uC0AC\uC6A9\uC790\uC785\uB825.c",
-              "ToolTip": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uC0AC\uC6A9\uC790\uC785\uB825.c",
-              "RelativeToolTip": "DataStructure2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uC0AC\uC6A9\uC790\uC785\uB825.c",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAA0AAAAAAAAAA==",
+              "Title": "\uACE0\uAC1D\uB300\uAE30\uC5F4_\uD050.c",
+              "DocumentMoniker": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uD050.c",
+              "RelativeDocumentMoniker": "DataStructure2\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uD050.c",
+              "ToolTip": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uD050.c",
+              "RelativeToolTip": "DataStructure2\\\uACE0\uAC1D\uB300\uAE30\uC5F4_\uD050.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-21T08:36:26.415Z",
+              "WhenOpened": "2025-08-22T08:44:27.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uD568\uC218.c",
-              "DocumentMoniker": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uD568\uC218.c",
-              "RelativeDocumentMoniker": "DataStructure2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uD568\uC218.c",
-              "ToolTip": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uD568\uC218.c",
-              "RelativeToolTip": "DataStructure2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uD568\uC218.c",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Title": "\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uC0BD\uC785_\uC0AD\uC81C.c",
+              "DocumentMoniker": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uC0BD\uC785_\uC0AD\uC81C.c",
+              "RelativeDocumentMoniker": "DataStructure2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uC0BD\uC785_\uC0AD\uC81C.c",
+              "ToolTip": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uC0BD\uC785_\uC0AD\uC81C.c",
+              "RelativeToolTip": "DataStructure2\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8_\uC0BD\uC785_\uC0AD\uC81C.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-21T08:15:24.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "linkedList2.c",
-              "DocumentMoniker": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\linkedList2.c",
-              "RelativeDocumentMoniker": "DataStructure2\\linkedList2.c",
-              "ToolTip": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\linkedList2.c",
-              "RelativeToolTip": "DataStructure2\\linkedList2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-21T08:01:19.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "linkedList1.c",
-              "DocumentMoniker": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\linkedList1.c",
-              "RelativeDocumentMoniker": "DataStructure2\\linkedList1.c",
-              "ToolTip": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\linkedList1.c",
-              "RelativeToolTip": "DataStructure2\\linkedList1.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-21T07:38:17.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "arrayStruct.c",
-              "DocumentMoniker": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\arrayStruct.c",
-              "RelativeDocumentMoniker": "DataStructure2\\arrayStruct.c",
-              "ToolTip": "C:\\cworkspace2\\DataStructure2\\DataStructure2\\arrayStruct.c",
-              "RelativeToolTip": "DataStructure2\\arrayStruct.c",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowCAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-21T07:24:58.837Z",
+              "WhenOpened": "2025-08-22T07:37:09.113Z",
               "EditorCaption": ""
             }
           ]
