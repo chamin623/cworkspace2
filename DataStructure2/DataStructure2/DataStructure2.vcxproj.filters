@@ -36,5 +36,17 @@
     <ClCompile Include="고객대기열_큐.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="고객대기열_큐_연결리스트.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="treeEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="binarySearchTree.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="hashEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

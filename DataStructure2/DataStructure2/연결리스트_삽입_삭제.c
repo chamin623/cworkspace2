@@ -82,11 +82,10 @@ void insertNodeEnd(int value) {
 	}
 	else {
 		Node* current = head;
-		while (current->next != NULL) { //( current를 맨 끝으로 이동(NULL까지는 가면 안됨) )
+		while (current->next != NULL) { //( NULL까지는 가면 안됨 )
 			current = current->next;
 		}
 		current->next = newNode;
-		//( current=current->next; //current 이동할 필요 없음. while 있으니까 )
 	}
 	printf("%d 맨 뒤 삽입 완료\n\n", value);
 }
@@ -124,17 +123,19 @@ void deleteNode(int value) {
 	Node* prev = NULL;
 
 	//노드 탐색 - 삭제 노드 찾기 전
-	while (current != NULL&&current->data!=value) {
+	while (current != NULL&&current->data!=value) { //( 끝까지 안갔고, 찾지도 못했다면 while문 계속 )
 		prev = current;
 		current = current->next;
 	}
 
-	if (current == NULL) {
+	//( while문 중단 이유가 못찾아서(끝까지 가서)인 경우 )
+	if (current == NULL) { 
 		printf("%d 값이 리스트에 없습니다.\n\n", value);
 		return;
 	}
 
 	//노드 삭제
+	//( while문 중단 이유가 찾아서인 경우 )
 	if (prev == NULL) { //첫 노드 삭제
 		head = current->next; //다음 노드를 head가 됨
 	}
